@@ -1,0 +1,100 @@
+li{
+    list-style: none; display: inline-block;
+}
+li a{
+  color: black;
+  margin-left: 100px; 
+ text-decoration: none;
+ display: flex;
+ padding: 3px 3px;
+ margin-right: 20px;  
+}
+
+li{
+    float: left;
+}
+
+.girl_pic{
+   position: absolute;
+   right:100px;
+   top: 100px;
+   height: 600px;
+   width: 600px;
+}
+.Decore_png{
+    position: absolute;
+    height: 550px;;
+    width: 600px;
+    right: 0px;
+    top: 0;
+}
+.image{
+    position: absolute;
+    height: 105px;
+    width: 132px;
+    right: 470px;
+    top: 170px;
+}
+.tra{
+    left: 150;
+}
+.plane{
+    position: absolute;
+    height: 105px;
+    width: 132px;
+    right: 70px;
+    top:200px ;
+}
+.title{
+    position: absolute;
+    left: 150px;
+    top: 30px;
+}
+.h4{
+    position:absolute;
+    top: 140px;
+    left: 150px;
+    color: #DF6951;
+} 
+.heading{
+    position:absolute;
+    top: 200px;
+    left: 150px;
+    height: 200px;
+    width: 400px;
+    
+}
+.pra1{
+    position:absolute;
+    top: 430px;
+    left: 150px;   
+}
+
+.pra2{
+    position:absolute;
+    top: 450px;
+    left: 150px;   
+}
+.pra3{
+    position:absolute;
+    top: 470px;
+    left: 150px;   
+}
+.button{
+    position:absolute;
+    top: 560px;
+    left: 150px;
+    color:#FFFFFF;
+    background-color: #F1A501;
+    border-radius: 10px; 
+    padding: 10px 20px;
+       
+}
+.Play{
+    position:absolute;
+    top: 550px;
+    left: 300px;
+    height: 90px;
+    width: 180px;
+}
+
